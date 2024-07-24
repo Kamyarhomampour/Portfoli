@@ -65,14 +65,14 @@ font-size: 40px;}
      word-spacing: -3.3px;
     letter-spacing:-0.5; 
 }
-#pic{ margin: top 10px;;
+#pic{ margin: top 5px;;
     display: flex;
     justify-content: right;
     padding-left: 10%;
     display: flex;
-    align-items: end; 
-    height: 1000px;
-    width: 1000px;
+    align-items: center; 
+    height: 600px;
+    width: 650px;
 }
 #p1 span {
     color: brown;
@@ -129,6 +129,7 @@ body {
 #p3{
     color: #ffffff;
     font-size: xx-large;
+    margin-top: 1px;
  }
 
  *{
