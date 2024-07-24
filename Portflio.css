@@ -95,8 +95,13 @@ font-size: 40px;}
     display: flex;
 justify-content:space-between;
 text-align:justify;} 
-
- .Text{ 
+    #p5 {font-size: medium;
+    display: flex;
+justify-content:space-between;
+text-align:justify;
+color:rgb(126, 27, 27) ;}
+ 
+.Text{ 
     
     font-family: Arial;
     justify-content: left;
@@ -104,7 +109,8 @@ text-align:justify;}
    display: block;
 
 
-}; 
+};
+    
     };
     nav ul li{
         font-size: large;
@@ -120,7 +126,10 @@ body {
     background-size: 500% 500%;
     background-attachment: fixed;
 }
-
+#p3{
+    color: #ffffff;
+    font-size: xx-large;
+ }
 
 @keyframes gradient {
     0% {
