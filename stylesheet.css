@@ -58,15 +58,15 @@ font-size: 40px;}
 }
 #p2{ 
     font-size: 20px;
-    color:rgb(80, 56, 125) ;
+    color:rgb(45, 25, 82) ;
     font-weight: 600;
     padding-right: 60%;
     padding-left: 1%;
     display: flex;
      justify-content:space-evenly; 
     text-align:justify; 
-     word-spacing: -10;
-    letter-spacing: -10; 
+     word-spacing: -3.3px;
+    letter-spacing:-0.5; 
 }
 #pic{ margin: top 100px;;
     display: flex;
@@ -75,7 +75,7 @@ font-size: 40px;}
     display: flex;
     align-items: center; 
     height: 800px;
-    width: 900px;
+    width: 800px;
 }
 #p3 span{
     font-size: xx-large;
