@@ -68,14 +68,14 @@ font-size: 40px;}
      word-spacing: -3.3px;
     letter-spacing:-0.5; 
 }
-#pic{ margin: top 5px;;
+#pic{ margin: top 100px;;
     display: flex;
     justify-content: right;
     padding-left: 10%;
     display: flex;
     align-items: center; 
-    height: 600px;
-    width: 700px;
+    height: 800px;
+    width: 950px;
 }
 #p3 span{
     font-size: xx-large;
@@ -139,6 +139,7 @@ body {
     color:rgb(45, 25, 82) ;
     font-weight: 600;
     padding-left: 0%;
+    margin-left: 100PX;
  }
 #qr_code{
     display: flex;
