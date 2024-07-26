@@ -75,7 +75,7 @@ font-size: 40px;}
     display: flex;
     align-items: center; 
     height: 700px;
-    width: 800px;
+    width: 850px;
 }
 #p3 span{
     font-size: xx-large;
@@ -104,11 +104,9 @@ font-size: 40px;}
     display: flex;
 justify-content:space-between;
 text-align:justify;} 
-    #p5 {font-size: medium;
-    display: flex;
-justify-content:space-between;
-text-align:justify;
-color:rgb(126, 27, 27) ;}
+#p5{
+    padding-left: 10px;
+} 
  
 .Text{ 
     
