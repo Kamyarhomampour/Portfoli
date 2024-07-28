@@ -65,7 +65,7 @@ font-size: 40px;}
     display: flex;
      justify-content:space-evenly; 
     text-align:justify; 
-     word-spacing: -4.3px;
+     word-spacing: -3.3px;
     letter-spacing:-0.5; 
 }
 #pic{ margin-top:  80px;
@@ -77,15 +77,20 @@ font-size: 40px;}
     height: 700px;
     width: 900px;
 }
-#p3 span{
-    font-size: xx-large;
-    color: rgb(105, 5, 5);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
+#CV_link{
+    display: flex;
+    margin-left: 50px;
+    font-size: 20px;
 }
 #p1 span {
     color: brown;
 } 
+#CV{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
 .Text{
         /* text-align:justify; */
    word-spacing: -1.5px;
@@ -108,8 +113,9 @@ text-align:justify;}
     justify-content:space-around;
     padding-bottom: 20%;
 } */
-#p5{padding-top: 50%;
-    padding-left: 10px;
+#p5{
+    padding-top: 50%;
+    padding-left: 50px;
 } 
  
 .Text{ 
@@ -137,17 +143,30 @@ body {
     background-size: 500% 500%;
     background-attachment: fixed;
 }
-#p3{font-size: 20px;
+#h2{
+    font-size: 20px;
+}
+#h4{
+    font-size: 30px;
+}
+#p3{
+    font-size: 20px;
     color:rgb(45, 25, 82) ;
     font-weight: 600;
-    padding-left: 0%;
-    margin-left: 100PX;
+    padding-left: 0.5%;
+    padding-top: 10%;
  }
 #qr_code{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: 10%
+    margin-top: 2%;
+    margin-left: 1%
+}
+#text_converter{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1%;
+    font-size: 25px;
+    margin-top: 2%;
 }
  *{
     margin:0;
@@ -163,7 +182,7 @@ body {
     display: flex;
     align-items: center;
     /* justify-content: center; */
-    padding-left: 10%;
+    padding-left: 1%;
 }
 form{
     background:rgb(214, 209, 209) ;
