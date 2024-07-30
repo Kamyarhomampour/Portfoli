@@ -65,8 +65,8 @@ font-size: 40px;}
     display: flex;
      justify-content:space-evenly; 
     text-align:justify; 
-     word-spacing: -3.3px;
-    letter-spacing:-0.5; 
+     word-spacing: -4px;
+    letter-spacing:0px; 
 }
 #pic{ margin-top:  80px;
     display: flex;
@@ -161,6 +161,12 @@ body {
     color:rgb(45, 25, 82) ;
     margin-left: 1%;
  }
+#p6{
+    font-size: 20px;
+    color:rgb(45, 25, 82) ;
+    margin-left: 1%; 
+    margin-top: 90%;  
+ }
 #qr_code{
     display: flex;
     margin-top: 2%;
@@ -227,7 +233,17 @@ form #button1{
     margin: 20px auto 0;
     border-radius: 30px;
 }
-
+#p5{
+    font-size: 18px;
+    color:rgb(45, 25, 82) ;
+    margin-left: 1%; 
+}
+#p6{
+    font-weight: 600;
+    font-size: 18px;
+    color:rgb(45, 25, 82) ;
+    margin-left: 1%;  
+}
 @keyframes gradient {
     0% {
         background-position: 0% 0%;
