@@ -149,6 +149,9 @@ body {
 #h4{
     font-size: 30px;
 }
+#h6{
+    font-size: 20px;
+}
 #p3{
     font-size: 20px;
     color:rgb(45, 25, 82) ;
@@ -192,7 +195,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 h5{
-    font-size: 25px;
+    font-size: 20px;
+    margin-left: 2%;
+    font-size: 18px;
+    color:rgb(45, 25, 82) ;
+    margin-left: 1%; 
 }
 .container1{
     width: 100%;
@@ -217,6 +224,14 @@ form h3{
     color: #555;
     font-weight: 800;
     margin-bottom: 20px;
+
+}
+#link_quiz{
+
+    font-size:30px;
+    margin-left: 20%;
+}
+#h5{
 
 }
 form input,form textarea{
